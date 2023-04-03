@@ -2,13 +2,12 @@
 #include <stdlib.h>
 
 //Fazer um programa para ler o nome e idade de duas pessoas. Ao final mostrar uma mensagem com os
-//nomes e a idade média entre essas pessoas, com uma casa decimal, conforme exemplo.
+//nomes e a idade mÃ©dia entre essas pessoas, com uma casa decimal, conforme exemplo.
 
 void ler_texto(char *buffer, int length){
     fgets(buffer, length, stdin);
     strtok(buffer, "\n");
 }
-
 
 int main(){
 
@@ -22,7 +21,6 @@ int main(){
     scanf ("%lf", &idade1);
 
     printf("Dados da Segunda Pessoa:\n");
-
 
     printf ("Nome: ");
     fseek (stdin, 0, SEEK_END);
