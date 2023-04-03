@@ -2,9 +2,9 @@
 #include <stdlib.h>
 
 //Deseja-se converter uma medida de temperatura da escala Celsius para Fahrenheit ou vice-versa. Para
-//isso, você deve construir um programa que leia a letra "C" ou "F" indicando em qual escala vai ser
+//isso, vocÃª deve construir um programa que leia a letra "C" ou "F" indicando em qual escala vai ser
 //informada uma temperatura. Em seguida o programa deve mostrar a temperatura na outra escala comduas casas decimais.
-// A seguir é dada a fórmula para converter de Fahrenheit para Celsius (você deve deduzir a fórmula de Celsius para Fahrenheit)
+// A seguir Ã© dada a fÃ³rmula para converter de Fahrenheit para Celsius (vocÃª deve deduzir a fÃ³rmula de Celsius para Fahrenheit)
 //Data 30/03/2023
 
 int main(){
@@ -27,7 +27,6 @@ int main(){
         F = C * 9.0 / 5.0 + 32.0;
         printf ("Temperatura equivalente em Fahrenheit: %.2lf", F);
     }
-
-
+    
     return 0;
 }
