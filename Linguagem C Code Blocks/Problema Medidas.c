@@ -2,11 +2,11 @@
 #include <stdlib.h>
 
 //Problema "medidas"
-//Fazer um programa para ler três medidas A, B e C. Em seguida, calcular e mostrar (imprimir os dados
+//Fazer um programa para ler trÃªs medidas A, B e C. Em seguida, calcular e mostrar (imprimir os dados
 //com quatro casas decimais):
-//a) a área do quadrado que tem lado A
-//b) a área do triângulo retângulo que base A e altura B
-//c) a área do trapézio que tem bases A e B, e altura C
+//a) a Ã¡rea do quadrado que tem lado A
+//b) a Ã¡rea do triÃ¢ngulo retÃ¢ngulo que base A e altura B
+//c) a Ã¡rea do trapÃ©zio que tem bases A e B, e altura C
 //Data: 28/03/2023
 
 int main(){
@@ -27,7 +27,6 @@ int main(){
     printf ("Area do Quadrado = %.4lf\n", AQuadrado);
     printf ("Area do Triangulo = %.4lf\n", ATriangulo);
     printf ("Area do Trapezio = %.4lf\n", ATrapezio);
-
 
     return 0;
 }
