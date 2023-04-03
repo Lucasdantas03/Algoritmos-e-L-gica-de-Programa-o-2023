@@ -2,14 +2,13 @@
 #include <stdlib.h>
 
 //Uma empresa vai conceder um aumento percentual de
-//sal·rio aos seus funcion·rios dependendo de quanto
+//sal√°rio aos seus funcion√°rios dependendo de quanto
 //cada pessoa ganha, conforme tabela ao lado. Fazer um
-//programa para ler o sal·rio de uma pessoa, daÌ mostrar
-//qual o novo sal·rio desta pessoa depois do aumento,
+//programa para ler o sal√°rio de uma pessoa, da√≠ mostrar
+//qual o novo sal√°rio desta pessoa depois do aumento,
 //quanto foi o aumento e qual foi a porcentagem de
 //aumento.
 //Data : 31/03/2023
-
 
 int main(){
 
