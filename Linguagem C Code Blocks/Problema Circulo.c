@@ -6,11 +6,9 @@
 //círculo com três casas decimais. A fórmula da área do círculo é a seguinte: 𝑎𝑟𝑒𝑎 = 𝜋. 𝑟ଶ. Você pode
 //usar o valor de 𝜋 fornecido pela biblioteca da sua linguagem de programação, ou então, se preferir, use
 //diretamente o valor 3.14159.
-
 //Data 28/03/2023
 
 int main(){
-
 
     double r, Area;
     double PI = 3.14159;
