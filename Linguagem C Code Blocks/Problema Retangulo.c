@@ -2,8 +2,9 @@
 #include <stdlib.h>
 #include <math.h>
 
-//Fazer um programa para ler as medidas da base e altura de um ret‚ngulo. Em seguida, mostrar o valor
-//da ·rea, perÌmetro e diagonal deste ret‚ngulo, com quatro casas decimais, conforme exemplos.
+
+//Fazer um programa para ler as medidas da base e altura de um ret√¢ngulo. Em seguida, mostrar o valor
+//da √°rea, per√≠metro e diagonal deste ret√¢ngulo, com quatro casas decimais, conforme exemplos.
 
 int main(){
 
