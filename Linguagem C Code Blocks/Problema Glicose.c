@@ -3,8 +3,8 @@
 
 //Fazer um programa para ler a quantidade de glicose
 //no sangue de uma pessoa e depois mostrar na tela a
-//classificação desta glicose de acordo com a tabela de
-//referência ao lado.
+//classificaÃ§Ã£o desta glicose de acordo com a tabela de
+//referÃªncia ao lado.
 //Data 30/03/2023
 
 int main(){
@@ -23,7 +23,6 @@ int main(){
     else {
         printf ("Classificacao: Diabetes");
     }
-
 
     return 0;
 }
