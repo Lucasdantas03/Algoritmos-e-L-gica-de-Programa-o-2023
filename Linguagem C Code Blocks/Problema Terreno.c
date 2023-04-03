@@ -16,7 +16,8 @@ int main(){
     PrecoDoTerreno = M2 * AreaDoTerreno;
 
     printf ("Area do Terreno = %.2lf\n", AreaDoTerreno);
-    printf ("Preço do Terreno = %.2lf\n", PrecoDoTerreno);
+    printf ("PreÃ§o do Terreno = %.2lf\n", PrecoDoTerreno);
 
     return 0;
+    
 }
