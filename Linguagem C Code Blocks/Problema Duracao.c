@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Fazer um programa para ler uma duração de tempo em segundos, daí imprimir na tela esta duração no
+//Fazer um programa para ler uma duraÃ§Ã£o de tempo em segundos, daÃ­ imprimir na tela esta duraÃ§Ã£o no
 //formato horas:minutos:segundos
 //Data: 28/03/2023
 
@@ -19,6 +19,6 @@ int main(){
     segundos = resto % 60;
 
     printf ("%d:%d:%d ", horas, minutos, segundos);
-
+    
     return 0;
 }
