@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <math.h>
 
-//Fazer um programa para ler três números inteiros. Em seguida, mostrar qual o menor dentre os três
-//números lidos. Em caso de empate, mostrar apenas uma vez.
+//Fazer um programa para ler trÃªs nÃºmeros inteiros. Em seguida, mostrar qual o menor dentre os trÃªs
+//nÃºmeros lidos. Em caso de empate, mostrar apenas uma vez.
 //Data 30/03/2023
 
 int main(){
@@ -16,8 +16,6 @@ int main(){
     scanf ("%lf", &Segundo);
     printf ("Terceiro Valor: ");
     scanf ("%lf", &terceiro);
-
-
 
     if (Primeiro < Segundo && Primeiro < terceiro){
         menor = Primeiro;
