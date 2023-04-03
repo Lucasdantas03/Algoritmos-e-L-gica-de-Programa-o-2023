@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
 //Fazer um programa para calcular o troco no processo de pagamento de um produto de uma mercearia.
-//O programa deve ler o preÁo unit·rio do produto, a quantidade de unidades compradas deste produto,
+//O programa deve ler o pre√ßo unit√°rio do produto, a quantidade de unidades compradas deste produto,
 //e o valor em dinheiro dado pelo cliente (suponha que haja dinheiro suficiente). Seu programa deve
 //mostrar o valor do troco a ser devolvido ao cliente.
 //Data 28/03/2023
