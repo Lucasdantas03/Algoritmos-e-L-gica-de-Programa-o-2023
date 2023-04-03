@@ -1,14 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//No arremesso de dardo, o atleta tem três chances para lançar o dardo à maior distância que conseguir.
-//Você deve criar um programa para, dadas as medidas das três tentativas de lançamento, informar qual
+//No arremesso de dardo, o atleta tem trÃªs chances para lanÃ§ar o dardo Ã  maior distÃ¢ncia que conseguir.
+//VocÃª deve criar um programa para, dadas as medidas das trÃªs tentativas de lanÃ§amento, informar qual
 //foi a maior.
 //Data 30/03/2023
 
-
 int main(){
-
 
     double D1, D2, D3, MaiorDistancia;
 
