@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Uma lanchonete possui vários produtos. Cada produto possui um código
-//e um preço. Você deve fazer um programa para ler o código e a
-//quantidade comprada de um produto (suponha um código válido), e daí
+//Uma lanchonete possui vÃ¡rios produtos. Cada produto possui um cÃ³digo
+//e um preÃ§o. VocÃª deve fazer um programa para ler o cÃ³digo e a
+//quantidade comprada de um produto (suponha um cÃ³digo vÃ¡lido), e daÃ­
 //informar qual o valor a ser pago, com duas casas decimais, conforme
 //tabela de produtos ao lado.
 //Data 31/03/2023
@@ -37,6 +37,6 @@ int main(){
         Total = Quant * 7.32;
         printf ("Valor a Pagar: R$ %.2lf", Total);
     }
-
+    
     return 0;
 }
