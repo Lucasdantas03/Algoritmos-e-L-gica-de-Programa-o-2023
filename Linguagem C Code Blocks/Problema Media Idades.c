@@ -15,6 +15,9 @@ int main(){
     printf (" Digite as Idades:\n");
     scanf ("%d", &idade);
 
+    Soma = 0;
+    Count = 0;
+
     if (idade < 0){
         printf("IMPOSSIVEL CALCULAR\n");
     }
