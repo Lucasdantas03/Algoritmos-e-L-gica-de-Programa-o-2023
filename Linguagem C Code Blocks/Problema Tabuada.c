@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Ler um número inteiro N, daí mostrar na tela a tabuada de N para 1 a 20.
+//Ler um nÃºmero inteiro N, daÃ­ mostrar na tela a tabuada de N para 1 a 20.
+
 //Data 06/04/2023
 
 int main(){
