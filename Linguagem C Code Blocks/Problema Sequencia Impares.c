@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Leia um valor inteiro X. Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o X,
-//se for o caso.
+//Leia um valor inteiro X. Em seguida mostre os Ã­mpares de 1 atÃ© X, um valor por linha, inclusive o X, se for o caso.
 //Data 18/04/2023
 
 int main(){
