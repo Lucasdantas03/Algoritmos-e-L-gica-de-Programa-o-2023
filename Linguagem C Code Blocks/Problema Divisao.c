@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Escreva um algoritmo que leia dois n˙meros e imprima o resultado da divis„o do primeiro pelo
-//segundo. Caso n„o for possÌvel, mostre a mensagem ìDIVISAO IMPOSSIVELî
+//Escreva um algoritmo que leia dois n√∫meros e imprima o resultado da divis√£o do primeiro pelo
+//segundo. Caso n√£o for poss√≠vel, mostre a mensagem ‚ÄúDIVISAO IMPOSSIVEL‚Äù
 
 //Data 27/04/2023
 
@@ -10,7 +10,6 @@ int main(){
 
     int N;
     double A, B, divisao;
-
 
     printf ("Quantos casos voce vai digitar? ");
     scanf ("%d", &N);
