@@ -1,10 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Leia 2 valores inteiros X e Y (em qualquer ordem). A seguir, calcule e mostre a soma dos números
+//Leia 2 valores inteiros X e Y (em qualquer ordem). A seguir, calcule e mostre a soma dos nÃºmeros
 //impares entre eles
 //Data 18/04/2023
-
 
 int main(){
 
