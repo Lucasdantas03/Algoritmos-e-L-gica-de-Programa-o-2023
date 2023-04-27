@@ -8,7 +8,6 @@ void ler_texto(char *buffer, int length){
     fgets(buffer, length, stdin);
     strtok(buffer, "\n");
 }
-
 int main(){
 
     double idade1, idade2, idadeMedia;
