@@ -7,6 +7,8 @@
 //mensagem "REPROVADO", conforme exemplos.
 //Data 30/03/2023
 
+
+
 int main(){
 
     double nota1, nota2, NF;
