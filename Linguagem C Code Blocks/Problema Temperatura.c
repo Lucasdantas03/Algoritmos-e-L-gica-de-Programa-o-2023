@@ -27,6 +27,5 @@ int main(){
         F = C * 9.0 / 5.0 + 32.0;
         printf ("Temperatura equivalente em Fahrenheit: %.2lf", F);
     }
-    
     return 0;
 }
