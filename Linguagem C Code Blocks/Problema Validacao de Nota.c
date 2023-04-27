@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Faça um programa que leia as notas referentes às duas avaliações de um aluno. Calcule e imprima a
-//média semestral. Faça com que o algoritmo só aceite notas válidas (uma nota válida deve pertencer ao
+//FaÃ§a um programa que leia as notas referentes Ã s duas avaliaÃ§Ãµes de um aluno. Calcule e imprima a
+//mÃ©dia semestral. FaÃ§a com que o algoritmo sÃ³ aceite notas vÃ¡lidas (uma nota vÃ¡lida deve pertencer ao
 //intervalo [0,10]). Cada nota deve ser validada separadamente.
+
 //Data 06/04/2023
 
 int main(){
@@ -29,6 +30,6 @@ int main(){
     media = (nota1 + nota2) / 2;
 
     printf ("Media = %.2lf", media);
-
+    
     return 0;
 }
