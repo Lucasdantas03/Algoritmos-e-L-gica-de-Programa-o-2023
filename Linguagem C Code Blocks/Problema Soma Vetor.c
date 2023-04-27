@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Faça um programa que leia N números reais e armazene-os em um vetor. Em seguida:
+//FaÃ§a um programa que leia N nÃºmeros reais e armazene-os em um vetor. Em seguida:
 //- Imprimir todos os elementos do vetor
-//- Mostrar na tela a soma e a média dos elementos do vetor
+//- Mostrar na tela a soma e a mÃ©dia dos elementos do vetor
 //Data 19/04/2023
-
 
 int main(){
 
