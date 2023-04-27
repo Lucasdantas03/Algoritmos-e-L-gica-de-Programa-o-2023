@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Problema "medidas"
 //Fazer um programa para ler três medidas A, B e C. Em seguida, calcular e mostrar (imprimir os dados
 //com quatro casas decimais):
 //a) a área do quadrado que tem lado A
