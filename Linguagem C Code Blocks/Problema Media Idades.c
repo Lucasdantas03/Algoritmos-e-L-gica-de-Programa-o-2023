@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Faça um programa para ler um número indeterminado de dados, contendo cada um, a idade de um
-//indivíduo. O último dado, que não entrará nos cálculos, contém um valor de idade negativa. Calcular
-//e imprimir a idade média deste grupo de indivíduos. Se for entrado um valor negativo na primeira vez,
+//FaÃ§a um programa para ler um nÃºmero indeterminado de dados, contendo cada um, a idade de um
+//indivÃ­duo. O Ãºltimo dado, que nÃ£o entrarÃ¡ nos cÃ¡lculos, contÃ©m um valor de idade negativa. Calcular
+//e imprimir a idade mÃ©dia deste grupo de indivÃ­duos. Se for entrado um valor negativo na primeira vez,
 //mostrar a mensagem "IMPOSSIVEL CALCULAR".
 //Data 05/04/2023
 
@@ -32,7 +32,6 @@ int main(){
       Media = Soma / Count;
     }
     printf ("Media %.2lf", Media);
-
 
     return 0;
 }
