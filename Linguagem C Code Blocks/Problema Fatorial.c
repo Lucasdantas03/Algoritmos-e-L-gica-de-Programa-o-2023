@@ -1,10 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Fazer um programa para ler um número natural N (valor máximo: 15), e depois calcular e mostrar o
+//Fazer um programa para ler um nÃºmero natural N (valor mÃ¡ximo: 15), e depois calcular e mostrar o
 //fatorial de N.
 //Data 27/04/2023
-
 
 int main(){
 
