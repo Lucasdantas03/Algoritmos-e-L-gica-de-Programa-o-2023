@@ -25,6 +25,5 @@ int main(){
         printf("Digite outros dois numeros:\n");
 		scanf("%d %d", &X, &Y);
     }
-
     return 0;
 }
