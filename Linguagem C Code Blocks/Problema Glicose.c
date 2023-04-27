@@ -3,8 +3,7 @@
 
 //Fazer um programa para ler a quantidade de glicose
 //no sangue de uma pessoa e depois mostrar na tela a
-//classificação desta glicose de acordo com a tabela de
-//referência ao lado.
+//classificação desta glicose de acordo com a tabela de referência ao lado.
 //Data 30/03/2023
 
 int main(){
