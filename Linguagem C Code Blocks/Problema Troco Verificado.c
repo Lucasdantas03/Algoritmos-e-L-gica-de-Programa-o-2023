@@ -7,6 +7,7 @@
 //ao cliente. Se o dinheiro dado pelo cliente não for suficiente, mostrar uma mensagem informando o
 //valor restante conforme exemplo.
 //Data 30/03/2023
+
 int main(){
 
     double PUnitario, Quant,DinheiroRecebido, Troco, ValorTotal, falta;
