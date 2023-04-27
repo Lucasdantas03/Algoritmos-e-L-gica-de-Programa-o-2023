@@ -37,6 +37,6 @@ int main(){
         Total = Quant * 7.32;
         printf ("Valor a Pagar: R$ %.2lf", Total);
     }
-    
+   
     return 0;
 }
