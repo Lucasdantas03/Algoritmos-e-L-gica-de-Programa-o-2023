@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Fazer um programa para ler um número inteiro N (máximo = 10) e uma matriz quadrada de ordem N
-//contendo números inteiros. Em seguida, mostrar a diagonal principal e a quantidade de valores
-//negativos da matriz.
+//Fazer um programa para ler um nÃºmero inteiro N (mÃ¡ximo = 10) e uma matriz quadrada de ordem N
+//contendo nÃºmeros inteiros. Em seguida, mostrar a diagonal principal e a quantidade de valores negativos da matriz.
 //Data 19/04/2023
 
 int main(){
